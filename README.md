@@ -11,7 +11,7 @@ This project showcases the creation of a searchable photo dataset utilizing Open
 - `create_image_embeddings.py`: Script to generate embeddings for the photo captions.
 
 ### Main Jupyter Notebook
-- chatbot_images_project.ipynb: Demonstrates the querying process for the photo dataset.
+- `chatbot_images_project.ipynb`: Demonstrates the querying process for the photo dataset.
 - Includes steps from setting up the environment and generating captions and embeddings, to querying the dataset.
 
 ### Environment Configuration
